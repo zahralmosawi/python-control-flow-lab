@@ -72,6 +72,8 @@ def fizz_buzz():
             print('Fizz')
         elif(i%5 == 0):
             print('Buzz')
+        else: 
+            print(i)
 
 # Call the function
 # fizz_buzz()
